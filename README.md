@@ -1,4 +1,4 @@
-# # 🎓 Student Management System (Python + MySQL)
+# 🎓 Student Management System (Python + MySQL)
 
 ## 📌 Overview
 This is a **console-based Student Management System** built using **Python** and **MySQL**.  
